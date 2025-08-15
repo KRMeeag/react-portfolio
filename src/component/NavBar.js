@@ -13,7 +13,7 @@ const Navbar = () => {
               <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                   <ul className="navbar-nav ms-auto gap-5">
                       <li className="nav-item">
-                          <a className="nav-link" href="#top" id="navbar-intro" aria-label="Go to About Me)">About Me</a>
+                          <a className="nav-link" href="#top" id="navbar-intro" aria-label="Go to About Me">About Me</a>
                       </li>
                       <li className="nav-item">
                           <a className="nav-link" href="#my-projects" id="navbar-my-proj" aria-label="Go to Portfolio - My Projects">Portfolio</a>
